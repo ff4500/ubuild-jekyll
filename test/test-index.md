@@ -1,5 +1,5 @@
 ---
-title: Test Index
+title: Index
 layout: blocks
 date: 2018-11-07 18:22
 page_sections:
