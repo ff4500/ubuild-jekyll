@@ -20,6 +20,5 @@ page_sections:
   col_3:
     headline: dsadass
     content: dsadasdsa
-published: false
 
 ---
