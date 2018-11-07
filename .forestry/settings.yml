@@ -4,6 +4,12 @@ auto_deploy: true
 admin_path: 
 webhook_url: 
 sections:
+- type: directory
+  path: test
+  label: Test
+  create: documents
+  match: "*.md"
+  new_doc_ext: ".md"
 - type: document
   path: FORESTRY-README.md
   label: Welcome - First Steps
